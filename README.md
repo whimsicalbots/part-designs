@@ -1,2 +1,2 @@
 # part-designs
-CAD of parts used in robots
+FreeCAD of parts used in robots and STL
